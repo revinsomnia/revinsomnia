@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a0f2e,160d28,0d0a1a&height=80&section=footer&reversal=true&fontColor=9d7fc4&fontSize=12&text=&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2a1a4a&height=1&width=60%" />
 </div>
 
 <div align="center">
@@ -39,11 +39,12 @@ status      : building cool things after midnight
 <br/>
 
 <div align="center">
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Still%20Learning-8B5CF6?style=for-the-badge&labelColor=1a0f2e&color=b89fd8" />
-
+</div>
 <br/>
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&theme=dark&perline=7" />
 
@@ -56,7 +57,7 @@ status      : building cool things after midnight
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode&theme=dark&perline=7" />
 
 </div>
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2a1a4a&height=1&width=60%" />
@@ -121,5 +122,5 @@ status      : building cool things after midnight
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a0f2e,160d28,0d0a1a&height=80&section=footer&reversal=true&fontColor=9d7fc4&fontSize=12&text=&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2a1a4a&height=1&width=60%" />
 </div>
