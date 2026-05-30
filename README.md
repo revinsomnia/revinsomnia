@@ -21,12 +21,16 @@
 
 <div align="left">
 
-```yaml
-name        : Reva
-role        : IT Student
-focus       : Web Development & Vibecoding Enthusiast
-contact     : revinsomnia@gmail.com
-status      : building cool things after midnight
+```javascript
+const dev = {
+  name:    'Reva',
+  role:    'IT Student',
+  focus:   'Web Development & Vibecoding Enthusiast',
+  contact: 'revinsomnia@gmail.com',
+  status:  'building cool things after midnight',
+}
+
+console.table(dev)
 ```
 
 </div>
